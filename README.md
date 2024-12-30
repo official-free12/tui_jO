@@ -1,0 +1,6 @@
+# 推荐奖/管理奖/见点奖/多级别 直销系统/软件/源码
+
+推荐奖/管理奖/见点奖/多级别 直销系统/软件/源码<br>奖金计划<br>一、代理等级：<br>Vip会员：__元（注册后显示“未激活”，有电子币时可自助激活）<br>1星代理：推荐__单<br>2星代理：推荐__单 <br>3星代理：推荐__单及以上<br>二、奖金项目<br>1、直推奖（第1代）：报单费的__%，所有会员享受。<br>2、见点奖（2-__代）：新增业绩的__%，所有会员享受。<br>3、管理奖：（直推+见点）的__%。<br>vip会员，拿__代<br>1星代理，拿__代<br>2星代理，拿__代<br>3星代理，拿__代 <br>三、业绩统计：<br>一星董事：__代以内伞下业绩满__单，显示一星董事级别。   <br>二星董事：__代以内伞下业绩满__单，且必须培养__个直推成为一星董事，显示二星董事级别。<br>三星董事：__代以内伞下业绩满__单，且必须培养__个直推成为二星董事，显示三星董事级别。<br>四星董事：__代以内伞下业绩满__单，且必须培养__个直推成为三星董事，显示四星董事级别。<br>四、功能说明<br>1、提现扣__%手续费<br>2、网络图、直推图、会员互转<br>3、奖金明细、电子币明细<br>4、会员互转、扣税功能<br>5、支付宝在线支付接口<br>6、自助激活、自动升级<br>7、注册推广链<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/5rnHT" style="color: red;">https://mega-file.org/5rnHT</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
